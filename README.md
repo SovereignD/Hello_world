@@ -1,2 +1,2 @@
 # Hello_world
-GitHub test project
+My name's Danil and this is my first work with GitHub
